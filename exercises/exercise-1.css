@@ -1,0 +1,26 @@
+html {
+    font-size: 18px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eaeaea;
+    color: #343434;
+}
+
+.title {
+    letter-spacing: 2px;
+    color: rgb(2, 132, 199);
+    margin: 0;
+    font-size: 1.8rem;
+    text-transform: uppercase;
+}
+
+.subtitle {
+    margin-top: 0;
+}
+
+.shopping-list li {
+    font-size: 1.1rem;
+    margin-bottom: 4px;
+}

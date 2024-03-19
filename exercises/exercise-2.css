@@ -1,0 +1,40 @@
+html {
+    font-size: 18px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eaeaea;
+    color: #343434;
+}
+
+.title {
+    color: rgb(2, 132, 199);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 1.8rem;
+    text-align: center;
+}
+
+.shopping-list {
+    margin: 0 auto;
+}
+
+.shopping-list th {
+    font-size: 0.8rem;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+    min-width: 120px;
+}
+
+.shopping-list td {
+    padding: 4px 0;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.shopping-list img {
+    border-radius: 8px;
+    width: 80px;
+    height: 80px;
+}
